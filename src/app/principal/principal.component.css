@@ -1,0 +1,16 @@
+img{
+    width: 200px ;
+    height: 200px;
+    margin-bottom: 10px;
+}
+
+form{
+    width: 500px;
+    margin: 30px auto;
+    text-align: center;
+}
+
+input{
+    margin: 10px;
+}
+
